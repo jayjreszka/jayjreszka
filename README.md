@@ -1,4 +1,4 @@
-Electronics and firmware development. Technical documentation.
-Also: Ghost themes, art, photography, nature.
+Open hardware electronics & firmware developer. Technical author. 
+Ghost theme designer. Art, photography & nature enthusiast.
 
 [currenari.com](https://currenari.com)
