@@ -1,4 +1,6 @@
-Open hardware electronics & firmware developer. Technical author. 
-Ghost theme designer. Art, photography & nature enthusiast.
+Open-hardware electronics and firmware developer.  
+Technical author.  
+Ghost theme designer.  
+Documentation, photography, and nature.
 
 [currenari.com](https://currenari.com)
